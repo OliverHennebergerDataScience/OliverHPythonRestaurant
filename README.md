@@ -3,8 +3,8 @@
 Python 3.12.2
 
 Pip List:
-pip install "ruamel.yaml<0.18.0"
-pip install fpdf
+  pip install "ruamel.yaml<0.18.0"
+  pip install fpdf
 
 
 This is a simple programm for placing an order at a restaurant.
